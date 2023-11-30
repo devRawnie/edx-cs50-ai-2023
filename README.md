@@ -1,1 +1,4 @@
-# edx-cs50-ai-2023
+# EDX CS50AI 2023
+
+1. (Search)[./search.md]
+2. (Knowledge)[./knowledge.md]
